@@ -13,6 +13,7 @@ export default defineConfig({
 				{
 					label: 'Cherax Wiki',
 					items: [
+						{ label: 'Purchasing Cherax', slug: 'purchasing-cherax' },
 						{ label: 'Getting Started', slug: 'getting-started' },
 						{ label: 'Getting Full Access To Channels', slug: 'getting-access-to-channels' },
 						{ label: 'Outfits', slug: 'outfits' },
